@@ -21,6 +21,8 @@
 - 🔭 I work with Kubernetes in **AWS & Azure, CNCF technologies such as GitOps, Terraform, CICD to name a few**
 
 - ☁️ I've keen interest in cloud compute networking and security best practices, to this end I am SANs certified with **GCIH**
+
+- 🔋 When I am not working I enjoy electrical systems (solar off-grid, communications, controllers) fitness and ski mountaineering ⛷️🧗🏻
 <!--Intro end-->
 
 <!--h1 without bottom border-->
